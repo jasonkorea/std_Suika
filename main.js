@@ -109,7 +109,7 @@ function endDrag() {
   setTimeout(() => {
     disableAction = false;
     addFruit();
-  }, 500);
+  },  700);
 }
 
 // 게임을 재시작하는 함수
